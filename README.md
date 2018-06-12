@@ -11,7 +11,7 @@ Install Node JS 6.0 or later and GIT in your enviroment.
 The first step, clone this repo using the folow command 
 
 ```
-git clone https://github.com/wanderaraujo/
+git clone https://github.com/wanderaraujo/node-js-with-express-and-ejs.git
 ```
 
 Run command to install resources 
